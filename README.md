@@ -1,6 +1,7 @@
 # Unity-GithubRepositoryStudy
 
-1. https://github.com/jynew/jynew               
+1. https://github.com/jynew/jynew    
+2. https://unitylist.com/p/fpi/Unity-toolbar-extender                  
     学习：             
         1. Editor下模型预览的实现
         2. Editor下快速查看Id对应的Icon的机制
