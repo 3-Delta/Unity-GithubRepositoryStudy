@@ -33,3 +33,5 @@
 8. https://github.com/sundxing/Unity-Excpetion-Crash            
     学习：             
         1. Unity/Android/iOS的异常处理机制， 以及对于异常堆栈的解析流程，比如安卓的addr2line的工具
+
+9. urp的卡通渲染 https://unitylist.com/p/106r/URP-Toon 多对象的多pass的渲染顺序与内置管线的区别
