@@ -35,3 +35,10 @@
         1. Unity/Android/iOS的异常处理机制， 以及对于异常堆栈的解析流程，比如安卓的addr2line的工具
 
 9. urp的卡通渲染 https://unitylist.com/p/106r/URP-Toon 多对象的多pass的渲染顺序与内置管线的区别
+
+10. https://github.com/xasset/xasset  https://xasset.github.io/#/preload  
+    学习：
+        1. 异步转同步实现
+        2. 下载限速
+        3. editor下使用分桢的同步加载模拟异步加载
+        4. 本地不存在资源会远程加载
