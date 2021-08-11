@@ -42,3 +42,5 @@
         2. 下载限速
         3. editor下使用分桢的同步加载模拟异步加载
         4. 本地不存在资源会远程加载
+
+11. https://github.com/Cysharp/ZString 中zerostring的实现，以及.github/workflows/build-debug.yml中关于特定Unity版本的编译，打包成.unitypackage的操作，以及.net的编译环境
