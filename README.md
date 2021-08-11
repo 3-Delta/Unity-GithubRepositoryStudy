@@ -31,4 +31,4 @@
 11. https://github.com/Cysharp/ZString 
         1. zerostring的实现，以及.github/workflows/build-debug.yml中关于特定Unity版本的编译，打包成.unitypackage的操作，以及.net的编译环境
         2. 自动打包github的release package
-        3. zerostring其实就是底层借助ArrayPool<char>.Shared.Rent存储string, 借助ReadOnlySpan<char>处理Append的传参， 但是tostring依然是每次new string一个新的string, 所以只是减少中间操作的垃圾，最终tostring的还是避免不了
+        3. zerostring其实就是底层借助ArrayPool<char>.Shared.Rent存储string, 借助ReadOnlySpan<char>处理Append的传参， 但是tostring依然是每次new string一个新的string, 所以只是减少中间操作的垃圾，最终tostring的还是避免不了。 同时处理remove以及replace之类的时候，借助span快速处理
