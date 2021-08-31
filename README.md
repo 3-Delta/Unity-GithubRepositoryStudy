@@ -34,5 +34,7 @@
         3. zerostring其实就是底层借助ArrayPool<char>.Shared.Rent存储string, 借助ReadOnlySpan<char>处理Append的传参， 但是tostring依然是每次new string一个新的string, 所以只是减少中间操作的垃圾，最终tostring的还是避免不了。 同时处理remove以及replace之类的时候，借助span快速处理
         
 12. https://github.com/neon-age/Smart-Inspector， peek插件  多个并列组件的inspector只draw一个的实现
+        
+13. https://github.com/yasirkula/UnityNativeGallery  sdk获取相机图片
 
 
