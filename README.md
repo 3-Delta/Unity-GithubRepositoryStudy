@@ -36,5 +36,8 @@
 12. https://github.com/neon-age/Smart-Inspector， peek插件  多个并列组件的inspector只draw一个的实现
         
 13. https://github.com/yasirkula/UnityNativeGallery  sdk获取相机图片
+        
+14. https://github.com/EllanJiang/GameFramework gameframework的ui机制，soundagent机制
+        https://github.com/yimengfan/BDFramework.Core sqlit配置表
 
 
