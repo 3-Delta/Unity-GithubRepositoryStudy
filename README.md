@@ -39,5 +39,13 @@
         
 14. https://github.com/EllanJiang/GameFramework gameframework的ui机制，soundagent机制
         https://github.com/yimengfan/BDFramework.Core sqlit配置表
+        
+15. https://github.com/Unity-Technologies/BoatAttack 
+        PlatformFramerateLock 限制物理帧以及渲染帧
+        MiniProfiler，Benchmark cpu，内存，帧率等实时统计
+        AppSettings.cs 动态分辨率的实现, UniversalRenderPipeline.asset.renderScale 或者 ScalableBufferManager.ResizeBuffers(offsetVec.x, offsetVec.y)
+        DayNightController  日夜系统
+        水面制作，水的交互，水浪的制作
+        
 
 
