@@ -46,6 +46,6 @@
         AppSettings.cs 动态分辨率的实现, UniversalRenderPipeline.asset.renderScale 或者 ScalableBufferManager.ResizeBuffers(offsetVec.x, offsetVec.y)
         DayNightController  日夜系统
         水面制作，水的交互，水浪的制作
-        
+        LocalToWorldJob 使用jobs并行计算，加速逻辑
 
 
