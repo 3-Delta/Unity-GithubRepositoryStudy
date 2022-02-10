@@ -13,7 +13,11 @@
 3. https://github.com/kaclok/Game-Programmer-Study-Notes  学习笔记
 4. https://github.com/kaclok/SceneSeparateDemo                                
         1. 4叉树场景分隔管理            
-5. https://github.com/yiv/blog                                     
+5. https://github.com/yiv/blog  
+   https://www.bilibili.com/video/BV1vZ4y1o75V?spm_id_from=444.41.0.0
+   基础工具库：https://qinzhuo.coding.net/public/QTool/QTool/git/files
+   帧同步网络库：https://qinzhuo.coding.net/public/QNetFrame/QNetFrame/git/files
+   Steamworks适配库：https://qinzhuo.coding.net/public/QSteamworks/QSteamworks/git/files
         1. 网络同步                 
 6. https://github.com/kaclok/Books                                      
         1. Gpu以及shader介绍        
