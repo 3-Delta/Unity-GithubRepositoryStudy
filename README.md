@@ -51,5 +51,9 @@
         DayNightController  日夜系统
         水面制作，水的交互，水浪的制作
         LocalToWorldJob 使用jobs并行计算，加速逻辑
+        
+16: 多线程限速下载
+        https://github.com/gregyjames/OctaneDownloader
+        https://github.com/bezzad/Downloader
 
 
