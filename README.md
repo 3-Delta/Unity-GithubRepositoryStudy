@@ -54,6 +54,7 @@
         
 16: 多线程限速下载
         https://github.com/gregyjames/OctaneDownloader
+        https://github.com/gregyjames/OctaneDownloader/blob/master/OctaneEngine/Engine.cs 学习使用内存映射文件写大文件(下载组装)，arraypool内存池
         https://github.com/bezzad/Downloader
 
 
