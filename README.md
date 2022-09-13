@@ -52,9 +52,11 @@
         水面制作，水的交互，水浪的制作
         LocalToWorldJob 使用jobs并行计算，加速逻辑
         
-16: 多线程限速下载
+17: 多线程限速下载
         https://github.com/gregyjames/OctaneDownloader
         https://github.com/gregyjames/OctaneDownloader/blob/master/OctaneEngine/Engine.cs 学习使用内存映射文件写大文件(下载组装)，arraypool内存池
         https://github.com/bezzad/Downloader
+        
+18：https://github.com/zpl-c/librg 一个c编写的server端的可视化实体同步框架
 
 
